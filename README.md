@@ -1,4 +1,4 @@
-# minesweeper
+# Minesweeper
 Simple Minesweeper for FEFU summer educational practice in Far Eastern Branch of the Russian Academy of Sciences.
 
 What to do:
