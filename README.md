@@ -9,5 +9,4 @@ What to do:
 
 ![123](https://user-images.githubusercontent.com/89124030/180140911-d48668a1-c552-4021-80f9-974e25d183c4.jpg)
 
-![image](https://github.com/elstrak/minesweeper/assets/89124030/9f10fe2d-8066-4ca2-905f-3d7f0a1e88a1)
 
